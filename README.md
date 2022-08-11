@@ -6,7 +6,7 @@ I'm a Software Engineer, a machine learning enthusiast , and a data scientist. I
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, Python, Flask, Django, Open source, Technical writing.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
