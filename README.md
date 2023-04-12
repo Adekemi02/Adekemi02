@@ -15,7 +15,7 @@ I'm a Software Engineer, a machine learning enthusiast , and a data scientist. I
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, Python, Flask, Django, Open source, Technical writing.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Python developer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Python developer (Intern or Junior level), Technical writer
 - 📫 You can [view my resume](https://drive.google.com/file/d/1VABIaXvge2e47EGSXMkx_L2cqcpLc_pp/view?usp=sharing) and contact me by emailing adisabarakatadekemi@gmail.com.
 
 ---
