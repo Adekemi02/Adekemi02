@@ -23,5 +23,5 @@ I'm a Software Engineer, a machine learning enthusiast , and a data scientist. I
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adekemi02&show_icons=true&include_all_commits=true&hide_border=true" alt="Adekemi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekemi02&langs_count=8&layout=compact&hide_border=true" alt="Adekemi's GitHub stats" /> | -->
 <!-- | ------------- | ------------- | -->
 
-|[![Adekemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adekemi02&count_private=true&theme=radical)](https://github.com/Adekemi02/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekemi02&langs_count=8&layout=compact&hide_border=true" alt="Adekemi's GitHub stats" /> |
+|[![Adekemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adekemi02&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/Adekemi02/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekemi02&langs_count=8&layout=compact&hide_border=true" alt="Adekemi's GitHub stats" /> |
 | ------------- | ------------ |
