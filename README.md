@@ -7,15 +7,15 @@
   </h1>
 </div>
 
-I'm a Software Engineer, a machine learning enthusiast , and a data scientist. I'm passionate about sharing knowledge, documentation, solving problems, web development, gaining knowledge, and others. I am currently running Backend Engineering programs at AltSchool Africa [School of Software Engineering](https://thealtschool.com/)...
+I'm a Software Engineer, a DevSecOps Engineer , and a Cybersecurity Analyst. I'm passionate about sharing knowledge, problem solving, cybersecurity, API security and Web Application, web development, gaining knowledge, and others. I am an Alumni AltSchool Africa [School of Software Engineering](https://thealtschool.com/) and a Cybergirl fellow...
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, Python, Flask, Django, Open source, Technical writing.
+- 💡 Fun fact: I'm an Alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m experienced in NodeJS, Python, Flask, Django, NestJS, Open source, Technical writing and frontend technologies such as NextJS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Python developer (Intern or Junior level), Technical writer
+- 💼 Job interests: Software Engineer, Python developer, DevOps Engineer, DevSecOps Engineer, Cybersecurity Analyst, Technical writer
 - 📫 You can [view my resume]([https://drive.google.com/file/d/1VABIaXvge2e47EGSXMkx_L2cqcpLc_pp/view?usp=sharing](https://drive.google.com/file/d/12E1DrXF1gRks-NMGhaKU0gdKqKinppY7/view?usp=sharing)) and contact me by emailing adisabarakatadekemi@gmail.com.
 
 ---
